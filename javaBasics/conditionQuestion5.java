@@ -1,6 +1,6 @@
 package javaBasics;
 import java.util.Scanner;;
-
+// CHECKING THE YEAR  IS LEAP YEAR OR NOT
 public class conditionQuestion5 {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);

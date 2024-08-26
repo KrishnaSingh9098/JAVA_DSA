@@ -3,7 +3,7 @@ package javaBasics;
 import java.util.Scanner;
 
 public class conditionQuestion3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {   //Checking the week day name by taking AS number inoput from the java from 1 to 7
         Scanner sc = new Scanner(System.in);
         int weekDAys = sc.nextInt();
         if(weekDAys == 1){
