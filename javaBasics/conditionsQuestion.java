@@ -10,5 +10,6 @@ public class conditionsQuestion {
        else{
         System.out.println("X is Smaller than or equal than 0");
        }
+       sc.close();
     }
 }

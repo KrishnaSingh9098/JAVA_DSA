@@ -30,5 +30,6 @@ public class conditionQuestion3 {
         else{
             System.out.println("PLEASE ENTER A VALID WEEKDAYS NUMBER");
         }
+        sc.close();
     }
 }

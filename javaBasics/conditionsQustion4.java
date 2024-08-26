@@ -11,5 +11,7 @@ public class conditionsQustion4 {
      int y = (a > b ) ? a : b;
      System.out.println(x);
      System.out.println(y);
+     sc.close();
     }
+    
 }
