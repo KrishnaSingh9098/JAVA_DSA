@@ -7,5 +7,6 @@ public class Switch {
         int MArks = sc.nextInt();
         String REportCard = MArks >= 33 ? "PASS" : "FAIL" ;
         System.out.println(REportCard);
+        sc.close();
     } 
 }
