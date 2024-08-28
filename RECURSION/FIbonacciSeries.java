@@ -6,6 +6,7 @@ public class FIbonacciSeries {
     int n = sc.nextInt();
      fun1(n);
      System.out.println();
+     sc.close();
    } 
    public static void fun1(int n){
     if(n==0)return;
