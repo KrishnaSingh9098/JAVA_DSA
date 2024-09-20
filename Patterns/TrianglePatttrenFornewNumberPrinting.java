@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Same same number printing
 public class TrianglePatttrenFornewNumberPrinting {
      public static void main(String[] args) {
     Scanner swc = new Scanner(System.in);
