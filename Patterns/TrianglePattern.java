@@ -9,6 +9,7 @@ public class TrianglePattern {
             System.out.print("* ");
         }
         System.out.println(" ");
-    }
+    }0
+    sc.close();
   }  
 }
