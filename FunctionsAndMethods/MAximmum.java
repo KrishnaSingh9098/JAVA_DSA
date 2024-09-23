@@ -9,4 +9,3 @@ public class MAximmum {
         System.out.print("THE Correct Answer of this input is: " + example.HelloWorld(4,5)); // Call the method on the instance
     }
 }
-x
